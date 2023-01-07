@@ -1,8 +1,27 @@
 ---
 title: I love nachos . . . Now you will love nachos too!!!
-subtitle: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+subtitle: The coconut nut is a giant nut If you eat too much, you'll get very
+  fat Now, the coconut nut is a big, big nut But this delicious nut is not a nut
+  It's the coco fruit (it's the coco fruit) Of the coco tree (of the coco tree)
+  From the coco palm family There are so many uses of the coconut tree You can
+  build a big house for the family All you need is to find a coconut man If he
+  cuts the tree, he gets the fruit free It's the coco fruit (it's the coco
+  fruit) Of the coco tree (of the coco tree) From the coco palm family The
+  coconut bark for the kitchen floor If you save some of it, you can build a
+  door Now, the coconut trunk, do not throw this junk If you save some of it,
+  you'll have a second floor The coconut wood is very good It can stand 20 years
+  if you pray it would Now, the coconut root, to tell you the truth You can
+  throw it or use it as firewood The coconut leaves, good shade it gives For the
+  roof, for the walls up against the eaves Now, the coconut fruit, say my
+  relatives Make good cannonballs up against the thieves It's the coco fruit
+  (it's the coco fruit) Of the coco tree (of the coco tree) From the coco palm
+  family The coconut nut is a giant nut If you eat too much, you'll get very fat
+  Now, the coconut nut is a big, big nut But this delicious nut is not a nut
+  It's the coco fruit (it's the coco fruit) Of the coco tree (of the coco tree)
+  From the coco palm family It's the coco fruit (it's the coco fruit) Of the
+  coco tree (of the coco tree) From the coco palm family It's the coco fruit
+  (it's the coco fruit) Of the coco tree (of the coco tree) From the coco palm
+  family Olé!
 date: 2020-12-13T00:00:00Z
 summary: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
